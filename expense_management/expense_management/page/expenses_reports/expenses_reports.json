@@ -1,0 +1,24 @@
+{
+ "content": null,
+ "creation": "2025-05-13 06:58:45.212336",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-05-13 07:11:52.529537",
+ "modified_by": "Administrator",
+ "module": "Expense Management",
+ "name": "expenses-reports",
+ "owner": "Administrator",
+ "page_name": "expenses-reports",
+ "restrict_to_domain": "",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Expenses "
+}
